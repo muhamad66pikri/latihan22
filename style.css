@@ -1,11 +1,28 @@
 h1 {
-       background-color: #1c2488;
-       color: #fff
-    }
-    a {
-      color: #597918
-    }
-    
-    body {
-      background-color:#ccdddd
-    }
+  background-color: #1c2488;
+  color: #fff
+}
+
+a {
+  color: #597918
+}
+
+body {
+  background-color: #F0D3E2
+}
+
+
+div {
+  background-color: #9DCDE6;
+  width: 200px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px rgba(0,0,0,0.5);
+  text-align: center;
+}
+
+div img{
+  border-radius: 50%;
+  border: 3px solid #0056b3;
+}
