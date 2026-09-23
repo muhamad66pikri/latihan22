@@ -1,6 +1,7 @@
 h1 {
   background-color: #1c2488;
   color: #fff
+  text-align: center;
 }
 
 a {
@@ -51,6 +52,7 @@ div.kartu-kontak {
   padding: 10px;
   border-radius: 10px;
   /*sudut kotak tumpul */
+  text-align: center;
 }
 
 .tombol-medsos {
