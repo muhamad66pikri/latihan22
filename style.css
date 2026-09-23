@@ -1,20 +1,19 @@
 h1 {
-  background-color: #1c2488;
-  color: #fff
+  background-color: #AFAFAF;
   text-align: center;
 }
 
 a {
-  color: #597918
+  color: #FFFFFF
 }
 
 body {
-  background-color: #ABF0FF
+  background-color: #525252
 }
 
 
 div.kartu-profil {
-  background-color: #9DCDE6;
+  background-color: #858585;
   width: 200px;
   margin: 20px auto;
   padding: 20px;
@@ -25,11 +24,11 @@ div.kartu-profil {
 
 div.kartu-profil img {
   border-radius: 50%;
-  border: 3px solid #0056b3;
+  border: 3px solid #FFFFFF;
 }
 
 .navigasi {
-  background-color: #FF9EEC;
+  background-color: #CDCDCD;
   padding: 10px;
   text-align: center;
   border-radius: 10px;
@@ -41,7 +40,7 @@ div.kartu-profil img {
 
 .navigasi .aktif {
   font-weight: bold;
-  color: #88FEC5;
+  color: #000000;
 }
 
 div.kartu-kontak {
@@ -67,7 +66,7 @@ div.kartu-kontak {
 }
 
 .wa {
-  background-color: #AFFFC8;
+  background-color: #4AFF83;
 }
 
 .github {
