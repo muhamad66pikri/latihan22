@@ -72,3 +72,18 @@ div.kartu-kontak {
 .github {
   background-color: #333333;
 }
+.galeri-container {
+   text-align: center;
+   max-width: 100%;
+   Margi: auto;#3C4DFF
+   
+   /* item galeri foto*/
+   .galeri-item {
+     width: 50%;
+     max-width: 150px;
+     display: inline-block;
+     margin: 10px;
+     border-radius: 8px;
+  
+   }
+}
