@@ -49,5 +49,5 @@ function updatetampilan() {
 
 }
 function reset(){
-  posi = 0
+  porsi = 0
 }
