@@ -66,37 +66,44 @@ div.kartu-kontak {
 }
 
 .wa {
-  background-color: #4AFF83;
+  background-color: #9AE6FF;
 }
 
 .github {
   background-color: #333333;
 }
+
 .galeri-container {
-   text-align: center;
-   max-width: 100%;
-   Margi: auto;#3C4DFF
-   
-   /* item galeri foto*/
-   .galeri-item {
-     width: 50%;
-     max-width: 150px;
-     display: inline-block;
-     margin: 10px;
-     border-radius: 8px ;
+  text-align: center;
+  max-width: 100%;
+  Margi: auto;
+  #3C4DFF
+
+  /* item galeri foto*/
+  .galeri-item {
+    width: 50%;
+    max-width: 150px;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 8px;
+    
+  }
   
-   }
-   overflow: hidden;
-          background-color: #00A1FF;
-        }
-        
-        .galeri-item img {
-          width: 100%;
-          height: 150px;
-          object-fit: cover;
-        }
-        
-        .galeri-item p {
-          padding: 0px;
-          line-height: 0.5;
-        }
+  overflow: hidden;
+  background-color: #00A1FF;
+}
+
+.galeri-item img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+.galeri-item p {
+  padding: 0px;
+  line-height: 0.5;
+}
+
+#input-makanan{
+  width: 2em;
+}
